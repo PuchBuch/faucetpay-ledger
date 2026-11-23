@@ -1,0 +1,11 @@
+__pycache__/
+*.egg-info/
+.venv/
+venv/
+.env
+*.db
+*.csv
+.pytest_cache/
+
+# local task notes
+TASK_CLAUDE_CODE.md
